@@ -1,4 +1,5 @@
-m = int(input())
-k = int(input())
-e = ['пики', 'трефы', 'бубны', 'черви']
-d = "foo"
+a = input()
+b = input()
+c = input()
+print(a, b, c, sep=", ")
+
